@@ -1,0 +1,135 @@
+.firstdiv{
+	width: 900px;
+	height: 60px;
+	margin-top: 20px;
+	border-radius: 10px;
+	background-color: #394166;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ul1{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.anchor1{
+	text-decoration: none;
+	color: white;
+}
+.list1{
+	text-align: center;
+	display: block;
+	font-size: 20px;
+	line-height: 60px;
+	padding: 18px;
+ 	display: inline;
+}
+.listme{
+	float: right;
+	text-align: center;
+	display: block;
+	font-size: 20px;
+	line-height: 60px;
+	margin-right: 15px;
+}
+.menu{
+	background-color: #02A2A8;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px; 
+}
+/*css related to second div*/
+.seconddiv{
+	width: 250px;
+	border-radius: 10px;
+	background-color: #394166;
+	margin-left: 225px;
+	margin-top: 15px;
+	float: left;
+}
+.ul2{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+}
+.anchor2{
+	text-decoration: none;
+	color: white;
+	display: block;
+	padding: 12px 12px;
+}
+.list2{
+	font-size: 15px;
+	border-bottom: 2px solid white;
+}
+.menu{
+	text-align: center;
+	font-size: 15px;
+	border-bottom: 2px solid white;
+}
+/*css related to third div*/
+.thirddiv{
+	width: 275px;
+	border-radius: 10px;
+	background-color: #394166;
+	margin-left: 25px;
+	margin-top: 15px;
+	float: left;
+}
+.table1{
+	height: 300px;
+	width: 275px;
+}
+.col0{
+	height: 230px;
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
+.col1{
+	border-top: 4px solid #FFC31D;
+	border-right: 1px  solid white;
+}
+.col2{
+	border-top: 4px solid #02A2A8;
+	border-right: 1px  solid white;
+}
+.col3{
+	border-top: 4px solid #CF2F49;
+}
+.col1,.col2,.col3{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+	width: 33.3%;
+}
+/*css regarding to the
+fourth div*/
+.fourthdiv{
+	width: 275px;
+	height: 175px;
+	background-color: #394166;
+	float: right;
+	margin-right: 275px;
+	margin-top: 15px;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 25px;
+}
+.h{
+	font-size: 15px;
+	color: white;	
+}
+.fourthdiv input[type="email"]{
+	width: 200px;
+	height: 30px;
+	border:0;
+	border-radius: 3px;
+}
+.fourthdiv input[type="submit"]{
+	width: 125px;
+	height: 30px;
+	border:0;
+	border-radius: 3px;
+	background-color: #02A2A8;
+}
